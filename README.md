@@ -121,6 +121,9 @@ http://localhost:5000
 Email: test@gmail.com  
 Password: 123456  
 Role: ADMIN
+
+## 🌐 Live API
+https://finance-backend-ph43.onrender.com
 ---
 
 ## 🧪 API Endpoints
