@@ -116,7 +116,11 @@ Server will run at:
 ```
 http://localhost:5000
 ```
+## 🔑 Test Credentials
 
+Email: test@gmail.com  
+Password: 123456  
+Role: ADMIN
 ---
 
 ## 🧪 API Endpoints
